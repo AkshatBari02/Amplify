@@ -10,7 +10,21 @@ let songsData =[
     {id:"8",songName:"Chaleya" ,filePath:"songs/Chaleya.mp3", coverPath:"covers/chaleya-cover.jpg",timestamp:"3:20"},
     {id:"9",songName:"Cheap-Thrills" ,filePath:"songs/Cheap-Thrills.mp3", coverPath:"covers/cheap thrills-cover.jpg",timestamp:"3:31"},
     {id:"10",songName:"Check-It-Out" ,filePath:"songs/Check-It-Out.mp3", coverPath:"covers/check it out-cover.jpg",timestamp:"3:15"},
-   
+    {id:"11",songName:"Cheques" ,filePath:"songs/Cheques.mp3", coverPath:"covers/cheques-cover.jpg",timestamp:"3:03"},
+    {id:"12",songName:"Daku" ,filePath:"songs/Daku.mp3", coverPath:"covers/daku-cover.jpg",timestamp:"2:11"},
+    {id:"13",songName:"Desperado" ,filePath:"songs/Desperado.mp3", coverPath:"covers/desperado-cover.jpg",timestamp:"4:23"},
+    {id:"14",songName:"Dhundhla" ,filePath:"songs/Dhundhla.mp3", coverPath:"covers/dhundhla cover.jpg",timestamp:"3:02"},
+    {id:"15",songName:"Diamond" ,filePath:"songs/Diamond.mp3", coverPath:"covers/diamond cover.jpg",timestamp:"4:00"},
+    {id:"16",songName:"Dilawara" ,filePath:"songs/Dilawara.mp3", coverPath:"covers/dilawara-cover.jpg",timestamp:"3:42"},
+    {id:"17",songName:"Do You Know" ,filePath:"songs/Do-You-Know.mp3", coverPath:"covers/do you know cover.jpg",timestamp:"3:39"},
+    {id:"18",songName:"Gaal Ni Kadni" ,filePath:"songs/Gaal-Ni-Kadni.mp3", coverPath:"covers/gaal ni kadni cover.jpg",timestamp:"4:13"},
+    {id:"19",songName:"Gaddi Kaali" ,filePath:"songs/Gaddi Kaali.mp3", coverPath:"covers/gaddi kaali cover.jpg",timestamp:"3:08"},
+    {id:"20",songName:"Gasolina" ,filePath:"songs/Gasolina.mp3", coverPath:"covers/gasolina-cover.jpg",timestamp:"3:12"},
+    {id:"21",songName:"Guitar Sikhda" ,filePath:"songs/Guitar Sikhda.mp3", coverPath:"covers/guitar sikhda cover.jpg",timestamp:"3:09"},
+    {id:"22",songName:"Hass Hass" ,filePath:"songs/Hass Hass.mp3", coverPath:"covers/hass hass cover.jpg",timestamp:"2:32"},
+    {id:"23",songName:"Heeriye" ,filePath:"songs/Heeriye.mp3", coverPath:"covers/heeriye cover.jpg",timestamp:"3:14"},
+    {id:"24",songName:"Jaadugar" ,filePath:"songs/Jaadugar.mp3", coverPath:"covers/jaadugar cover.jpg",timestamp:"3:12"},
+    {id:"25",songName:"Jai Hind Ki Senaa" ,filePath:"songs/Jai Hind Ki Senaa.mp3", coverPath:"covers/jai hind ki sena-cover.jpg",timestamp:"2:31"},
     
 ];
 export default songsData;
