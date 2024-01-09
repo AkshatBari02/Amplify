@@ -36,7 +36,19 @@ let songsData =[
     {id:"34",songName:"O Mahi" ,filePath:"songs/O Mahi.mp3", coverPath:"covers/o mahi cover.jpg",timestamp:"3:53"},
     {id:"35",songName:"Obsessed" ,filePath:"songs/Obsessed.mp3", coverPath:"covers/obsessed-cover.jpg",timestamp:"3:10"},
     {id:"36",songName:"OG" ,filePath:"songs/OG.mp3", coverPath:"covers/og-cover.jpg",timestamp:"3:17"},
-    
+    {id:"37",songName:"One Love" ,filePath:"songs/One Love.mp3", coverPath:"covers/one love-cover.jpg",timestamp:"2:39"},
+    {id:"38",songName:"Pehle Bhi Main" ,filePath:"songs/Pehle Bhi Main.mp3", coverPath:"covers/pejhle bhi main cover.jpg",timestamp:"4:10"},
+    {id:"39",songName:"Ram Ram" ,filePath:"songs/Ram Ram.mp3", coverPath:"covers/ram ram cover.jpg",timestamp:"3:41"},
+    {id:"40",songName:"Rao Sahab Drill" ,filePath:"songs/Rao Sahab Drill.mp3", coverPath:"covers/rao sahab drill-cover.jpg",timestamp:"3:31"},
+    {id:"41",songName:"Rubicon Drill" ,filePath:"songs/Rubicon Drill.mp3", coverPath:"covers/rubicon drill cover.jpg",timestamp:"3:08"},
+    {id:"42",songName:"Shada" ,filePath:"songs/Shada.mp3", coverPath:"covers/shada cover.jpg",timestamp:"3:58"},
+    {id:"43",songName:"Shadgi" ,filePath:"songs/Shadgi.mp3", coverPath:"covers/shadgi cover.jpg",timestamp:"3:12"},
+    {id:"44",songName:"Shoorveer-Shivaji" ,filePath:"songs/Shoorveer-Shivaji.mp3", coverPath:"covers/shoorveer shivaji-cover.jpeg",timestamp:"3:33"},
+    {id:"45",songName:"Softly" ,filePath:"songs/Softly.mp3", coverPath:"covers/softly cover.jpg",timestamp:"2:35"},
+    {id:"46",songName:"Still Rollin" ,filePath:"songs/Still Rollin.mp3", coverPath:"covers/still rollin-cover.jpg",timestamp:"2:54"},
+    {id:"47",songName:"Tu Hai Kahan" ,filePath:"songs/Tu Hai Kahan.mp3", coverPath:"covers/tu hai kahan cover.jpg",timestamp:"4:23"},
+    {id:"48",songName:"Vail" ,filePath:"songs/Vail.mp3", coverPath:"covers/vail cover.jpg",timestamp:"3:21"},
+    {id:"49",songName:"White Brown Black" ,filePath:"songs/White Brown Black.mp3", coverPath:"covers/white brown black-cover.jpg",timestamp:"2:56"},
     
     
 ];
