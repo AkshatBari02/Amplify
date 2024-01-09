@@ -25,6 +25,19 @@ let songsData =[
     {id:"23",songName:"Heeriye" ,filePath:"songs/Heeriye.mp3", coverPath:"covers/heeriye cover.jpg",timestamp:"3:14"},
     {id:"24",songName:"Jaadugar" ,filePath:"songs/Jaadugar.mp3", coverPath:"covers/jaadugar cover.jpg",timestamp:"3:12"},
     {id:"25",songName:"Jai Hind Ki Senaa" ,filePath:"songs/Jai Hind Ki Senaa.mp3", coverPath:"covers/jai hind ki sena-cover.jpg",timestamp:"2:31"},
+    {id:"26",songName:"Janiye" ,filePath:"songs/Janiye.mp3", coverPath:"covers/janiye-cover.jpg",timestamp:"3:43"},
+    {id:"27",songName:"Judge" ,filePath:"songs/Judge.mp3", coverPath:"covers/judge cover.jpg",timestamp:"3:01"},
+    {id:"28",songName:"Kahani Suno" ,filePath:"songs/Kahani Suno.mp3", coverPath:"covers/kahani suno-cover.jpg",timestamp:"2:53"},
+    {id:"29",songName:"Kinni Kinni" ,filePath:"songs/Kinni Kinni.mp3", coverPath:"covers/kinni kinni cover.jpg",timestamp:"3:31"},
+    {id:"30",songName:"Mi Amor" ,filePath:"songs/Mi-Amor.mp3", coverPath:"covers/mi amor-cover.jpg",timestamp:"3:23"},
+    {id:"31",songName:"Moon Rise" ,filePath:"songs/Moon Rise.mp3", coverPath:"covers/moon rise-cover.jpg",timestamp:"2:54"},
+    {id:"32",songName:"Nakhre" ,filePath:"songs/Nakhre.mp3", coverPath:"covers/nakhre cover.jpg",timestamp:"3:29"},
+    {id:"33",songName:"No Reason" ,filePath:"songs/No Reason.mp3", coverPath:"covers/no reason cover.jpg",timestamp:"3:38"},
+    {id:"34",songName:"O Mahi" ,filePath:"songs/O Mahi.mp3", coverPath:"covers/o mahi cover.jpg",timestamp:"3:53"},
+    {id:"35",songName:"Obsessed" ,filePath:"songs/Obsessed.mp3", coverPath:"covers/obsessed-cover.jpg",timestamp:"3:10"},
+    {id:"36",songName:"OG" ,filePath:"songs/OG.mp3", coverPath:"covers/og-cover.jpg",timestamp:"3:17"},
+    
+    
     
 ];
 export default songsData;
