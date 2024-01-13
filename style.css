@@ -59,6 +59,10 @@ nav ul li{
     border-radius: 12px;
     padding:34px;
     background: url(bg-amplify.jpeg);
+    background-size: cover; 
+}
+.hide {
+    display: none;
 }
 
 .bottom{
